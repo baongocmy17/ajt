@@ -1,4 +1,5 @@
 Phiên bản Photoshop 2026 mang đến bước tiến đột phá với việc tích hợp sâu trí tuệ nhân tạo (AI), tăng cường khả năng xử lý hình ảnh, và hỗ trợ làm việc cộng tác trên nền tảng đám mây.
+![photoshop2026](https://github.com/user-attachments/assets/70d3e355-b73e-4f0c-8f9c-17e6d331d8ee)
 
 
 # Những tính năng nổi bật của Photoshop 2026
