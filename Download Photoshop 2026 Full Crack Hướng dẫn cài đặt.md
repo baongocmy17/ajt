@@ -27,6 +27,8 @@ Kích thước: 5 GB
 Link tải Google drive: [DOWNLOAD](https://isangtao.com/download-photoshop-2026-full-huong-dan-cai-dat-chi-tiet/)
 
 # Hướng dẫn cài đặt
-Chạy file Set-up trong thư mục Adobe 2026 để cài
-Nhấn Continue chờ cài xong
-Đây là bản Full tính năng, đủ bản quyền
+- Chạy file Set-up trong thư mục Adobe 2026 để cài, ra như hình dưới
+![photoshop 2026](https://github.com/user-attachments/assets/14eee855-8749-4252-9259-6b0589792a47)
+  
+- Nhấn Continue chờ cài xong
+- Đây là bản Full tính năng, đủ bản quyền
